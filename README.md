@@ -9,7 +9,7 @@ List of Contributors
 * Manoj Panikkar
 * Kevin Windhorst
 * Valina Gewargis
-* Mario Padina
+* Mario Padilla
 
 How this Repo is Organized
 ==============================================================
