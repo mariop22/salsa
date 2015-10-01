@@ -10,6 +10,7 @@ List of Contributors
 * Kevin Windhorst
 * Valina Gewargis
 * Mario Padilla
+* John Read
 
 How this Repo is Organized
 ==============================================================
